@@ -1,0 +1,8 @@
+.footer {
+  align-content: center;
+}
+
+.footer__copyright {
+  margin: 0 auto 24px;
+  text-align: center;
+}

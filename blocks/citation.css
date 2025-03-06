@@ -1,0 +1,121 @@
+.citation {
+  margin: auto;
+}
+
+.citation__tittle {
+  max-width: 830px;
+  font-family: Inter;
+  font-weight: 900;
+  font-size: 54px;
+  line-height: 58px;
+  align-content: center;
+  margin: 0 auto 40px 140px;
+}
+
+.citation__quote {
+  margin: 0 auto 10px 148px;
+  max-width: 738px;
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 34px;
+}
+
+.citation__author {
+  max-width: 738px;
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 34px;
+  text-align: right;
+  margin: 0 auto 32px 148px;
+}
+
+.citation__text {
+  max-width: 722px;
+  margin: 0 auto 92px 148px;
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+@media (max-width: 768px) {
+  .citation__tittle {
+    max-width: 707px;
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 49px;
+    align-content: center;
+    margin: 0 auto 50px 24px;
+  }
+
+  .citation__quote {
+    margin: 0 auto 10px 24px;
+    max-width: 720px;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+  }
+
+  .citation__author {
+    max-width: 738px;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: right;
+    margin: 0 auto 32px 24px;
+  }
+
+  .citation__text {
+    max-width: 722px;
+    margin: 0 auto 88px 24px;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
+
+@media (max-width: 320px) {
+  .citation__tittle {
+    max-width: 288px;
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 35px;
+    align-content: center;
+    margin: 0 auto 40px;
+  }
+
+  .citation__quote {
+    margin: 0 auto 10px;
+    max-width: 288px;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .citation__author {
+    max-width: 288px;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: right;
+    margin: 0 auto 32px;
+  }
+
+  .citation__text {
+    max-width: 288px;
+    margin: 0 auto 64px;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+}
