@@ -20,4 +20,8 @@ O **Projeto Homeland** foi desenvolvido durante a Sprint 5 da **TripleTen** com 
 
 ---
 
+[**Veja o projeto**](https://gxudre.github.io/web_project_homeland/)
+
+---
+
 🔹 **Feito com ❤️ por [Gustavo Xudré](https://www.linkedin.com/in/gustavo-xudre/).**
