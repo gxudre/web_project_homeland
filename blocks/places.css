@@ -41,7 +41,6 @@
   font-weight: 400;
   font-size: 12px;
   line-height: 100%;
-  letter-spacing: 12%;
   text-transform: uppercase;
 }
 
@@ -51,7 +50,6 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
-  letter-spacing: 0%;
 }
 
 .places__content-image {
@@ -91,7 +89,6 @@
   font-weight: 600;
   font-size: 18px;
   line-height: 100%;
-  letter-spacing: 0%;
 }
 
 .places__content-btn:hover {
@@ -129,7 +126,6 @@
     font-weight: 900;
     font-size: 42px;
     line-height: 46px;
-    letter-spacing: 0%;
   }
 
   .places__content-text {
