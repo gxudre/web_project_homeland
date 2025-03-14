@@ -163,7 +163,6 @@
     font-weight: 900;
     font-size: 32px;
     line-height: 35px;
-    letter-spacing: 0%;
     grid-area: title;
     margin-left: 16px;
   }
@@ -209,7 +208,6 @@
     font-weight: 600;
     font-size: 14px;
     line-height: 100%;
-    letter-spacing: 0%;
     text-align: center;
     grid-area: button;
     margin-left: 16px;
